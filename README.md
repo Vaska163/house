@@ -1,2 +1,2 @@
 # house
-Напмсал HTML/CSS
+Написал HTML/CSS
